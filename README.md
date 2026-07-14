@@ -106,3 +106,6 @@ A chain of specialised AI agents that pass work down the line — mimicking how 
 Built by **Raji Adebayo** — AI Automation Engineer based in Jos, Nigeria, focused on practical automation for the development sector and beyond.
 
 📫 [LinkedIn](https://www.linkedin.com/in/rajiadebayo/)
+
+
+Updated from my Mac via Git.
